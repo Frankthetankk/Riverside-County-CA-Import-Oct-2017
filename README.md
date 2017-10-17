@@ -7,5 +7,5 @@ https://www.census.gov/geo/maps-data/data/partnership.html
 ActiveFiles AddressPoints WGS 84 Convert Oct17_1 is Address Points provided by Riverside County, CA
 http://gis.rivcoit.org/GIS-Data-2
 
-Building Footprints Riverside WGS 84 Convert is Building Footprints for the city of Riverside, CA
+Building Footprints Riverside WGS 84 Convert is Building Footprints for the city of Riverside, CA.
 Provided by Riverside County GIS.
